@@ -346,4 +346,4 @@ In an era where digital perimeters are constantly eroding, projects like SecureL
 
 ---
 
-*Developed by [RishvinReddy](https://github.com/RishvinReddy). Made with 🛡️ and ❤️.*
+*Developed by [RishvinReddy](https://github.com/RishvinReddy). Made with 🛡️.*
